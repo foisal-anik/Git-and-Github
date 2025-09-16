@@ -1,3 +1,4 @@
 # Git-and-Github
 Git and Github tutorial
-Authon:- Foisal Ahamed Anik
+<br>
+Author:- Foisal Ahamed Anik
